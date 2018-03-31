@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArrayListExp/ArrayListExp.iml" filepath="$PROJECT_DIR$/ArrayListExp/ArrayListExp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CatchExp/CatchExp.iml" filepath="$PROJECT_DIR$/CatchExp/CatchExp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoubleCompare/DoubleCompare.iml" filepath="$PROJECT_DIR$/DoubleCompare/DoubleCompare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneBook/PhoneBook.iml" filepath="$PROJECT_DIR$/PhoneBook/PhoneBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringUtil/StringUtil.iml" filepath="$PROJECT_DIR$/StringUtil/StringUtil.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/course111.iml" filepath="$PROJECT_DIR$/.idea/course111.iml" />
     </modules>
